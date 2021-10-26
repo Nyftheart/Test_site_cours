@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkintegration_continue=self.webpackChunkintegration_continue||[]).push([[4121],{8070:function(n){n.exports=JSON.parse('[{"name":"MySQL","permalink":"/docs/tags/my-sql","count":1},{"name":"BDD","permalink":"/docs/tags/bdd","count":1}]')}}]);
